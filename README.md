@@ -1,0 +1,2 @@
+# Student-performance-And-Attendence-Analysis-Using-PowerBI
+This project aims to develop an interactive Student Performance and Attendance  Analytics Dashboard using Power BI. The dashboard will help educational institutions  understand student academic performance by analyzing marks, attendance wise results. This project focuses to converting large academic datasets into the  meaningful visual insights.
