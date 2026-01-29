@@ -29,7 +29,11 @@ Data Cleaning: Missing values and inconsistencies are handled using Power Query.
 Data Modeling: Relationships are created using Student ID across multiple tables. 
 Dashboard Design: Interactive dashboards are created in Power BI with filters and KPIs. 
  
-# 5. Expected Outcomes: - Interactive dashboards showing student performance trends - Identification of weak students and subjects - Clear understanding of attendance impact on results - Faster and data-driven academic decision-making 
+# 5. Expected Outcomes: 
+- Interactive dashboards showing student performance trends
+- Identification of weak students and subjects
+- Clear understanding of attendance impact on results
+- Faster and data-driven academic decision-making 
  
 # 6. Tools and Technologies:
 - Microsoft Excel for data preparation
